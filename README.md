@@ -17,10 +17,9 @@ Opa! Eu sou Fabian, estudante informática para internet, no IFRN.
 [![Programming Languages](https://skillicons.dev/icons?i=py,java,html,css,js,mysql)](https://skillicons.dev)
 
 ### Frameworks & Bibliotecas
-[![Frameworks](https://skillicons.dev/icons?i=flask,fastapi,spring,react,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,fastapi,spring,)](https://skillicons.dev)
 
 ### Ferramentas & Tecnologias
-[![Tools and extras](https://skillicons.dev/icons?i=git,github,linux,figma,notion,obsidian,vscode,idea)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=git,github,linux,figma,vscode,idea,flask,django)](https://skillicons.dev)
 
----
-[![Tools and extras](https://skillicons.dev/icons?i=figma,linux,git,github,flask,django)](https://skillicons.dev)
+
