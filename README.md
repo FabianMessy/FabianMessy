@@ -20,6 +20,6 @@ Opa! Eu sou Fabian, estudante informática para internet, no IFRN.
 [![Frameworks](https://skillicons.dev/icons?i=flask,spring)](https://skillicons.dev)
 
 ### Ferramentas & Tecnologias que atualmente estudo
-[![Tools and extras](https://skillicons.dev/icons?i=git,github,linux,figma,vscode,idea,flask)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=git,github,linux,figma,vscode,idea)](https://skillicons.dev)
 
 
